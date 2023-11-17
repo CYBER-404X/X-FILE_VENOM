@@ -4,4 +4,4 @@ cd X-FILE_VENOM
 
 ls
 
-python X-FILE_VENOM
+python X-FILE_VENOM.py
